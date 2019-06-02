@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to OpenDivSchool
 
-You can use the [editor on GitHub](https://github.com/caser/opendivschool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+OpenDivSchool (ODS) is a secular-friendly, open source resource for a modern education in divinity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here, you can find curriculum, articles, and notes from various divinity-related resources. We also have guides on embarking on your own self-guided journey in alternative divinity education.
 
 ### Markdown
 
